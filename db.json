@@ -1,0 +1,40 @@
+{
+  "mahasiswa": [
+    {
+      "id": 1,
+      "nama": "Alipia Putri Riyanti",
+      "nim": "21/482577/SV/19970",
+      "kelas": "B",
+      "jeniskelamin": "Perempuan",
+      "icon": "cat",
+      "color": "#D0BFFF"
+    },
+    {
+      "nama": "AFIFAH PROGESTINA HAFIZH",
+      "nim": "21/480857/SV/19699",
+      "kelas": "B",
+      "jeniskelamin": "Perempuan",
+      "icon": "user",
+      "color": "#C3ACD0",
+      "id": 2
+    },
+    {
+      "nama": "Ellen",
+      "nim": "21/488123/SV/18304",
+      "kelas": "B",
+      "jeniskelamin": "Perempuan",
+      "color": "#40F8FF",
+      "icon": "robot",
+      "id": 4
+    },
+    {
+      "nama": "Della",
+      "nim": "21/54321/SV/16732",
+      "kelas": "A",
+      "jeniskelamin": "Perempuan",
+      "color": "#940B92",
+      "icon": "user",
+      "id": 5
+    }
+  ]
+}
